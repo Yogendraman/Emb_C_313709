@@ -28,3 +28,8 @@ showing PWM.
 5. Heater will check the heater button is ON.
 6. Temp to CAN shows the value of temperature gone 
 over protocol
+## In Action
+
+|OFF|ON|
+|:--:|:--:|
+|![OFF](Simulation/activity4-off.PNG)|![ON](Simulation/activity4-on.PNG)|
