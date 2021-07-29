@@ -1,7 +1,8 @@
 # Emb_C_LTTS
 Embedded Training LTTS
 # Embedded C Case Study
-
+Seat Heating System
+-----------------
 # Problem Statement: 
 ![activity_list](https://github.com/Yogendraman/Emb_C_LTTS/blob/main/Simulation/activity_list.png)
 1. Button Sensor will check the passenger is sited or not
