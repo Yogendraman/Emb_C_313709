@@ -1,4 +1,7 @@
 # Emb_C_LTTS
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/eb23952f20cc4cabb50371d4ac6f0247)](https://app.codacy.com/gh/Yogendraman/Emb_C_LTT?utm_source=github.com&utm_medium=referral&utm_content=Yogendraman/Emb_C_LTT&utm_campaign=Badge_Grade_Settings)
+
 Embedded Training LTTS
 # Embedded C Case Study
 Seat Heating System
