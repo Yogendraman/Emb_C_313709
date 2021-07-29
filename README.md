@@ -1,4 +1,9 @@
 # Emb_C_LTTS
+## CI and Code Qaulity
+|Build|CppCheck|Codacy|
+|:--:|:--:|:--:|
+[![Compile-Linux](https://github.com/Yogendraman/Emb_C_LTT/actions/workflows/complie.yml/badge.svg)](https://github.com/Yogendraman/Emb_C_LTT/actions/workflows/complie.yml)|[![Cppcheck](https://github.com/Yogendraman/Emb_C_LTT/actions/workflows/cpp.yml/badge.svg)](https://github.com/Yogendraman/Emb_C_LTT/actions/workflows/cpp.yml)|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/eb23952f20cc4cabb50371d4ac6f0247)](https://app.codacy.com/gh/Yogendraman/Emb_C_LTT?utm_source=github.com&utm_medium=referral&utm_content=Yogendraman/Emb_C_LTT&utm_campaign=Badge_Grade_Settings)|
+
 
 
 Embedded Training LTTS
@@ -23,15 +28,3 @@ showing PWM.
 5. Heater will check the heater button is ON.
 6. Temp to CAN shows the value of temperature gone 
 over protocol
-
-
-
-
-
-
-## CI and Code Qaulity
-|Build|CppCheck|Codacy|
-|:--:|:--:|:--:|
-[![Compile-Linux](https://github.com/Yogendraman/Emb_C_LTT/actions/workflows/complie.yml/badge.svg)](https://github.com/Yogendraman/Emb_C_LTT/actions/workflows/complie.yml)|[![Cppcheck](https://github.com/Yogendraman/Emb_C_LTT/actions/workflows/cpp.yml/badge.svg)](https://github.com/Yogendraman/Emb_C_LTT/actions/workflows/cpp.yml)|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/eb23952f20cc4cabb50371d4ac6f0247)](https://app.codacy.com/gh/Yogendraman/Emb_C_LTT?utm_source=github.com&utm_medium=referral&utm_content=Yogendraman/Emb_C_LTT&utm_campaign=Badge_Grade_Settings)|
-
-
