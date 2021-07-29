@@ -30,6 +30,9 @@ showing PWM.
 over protocol
 ## In Action
 
-|OFF|ON|
-|:--:|:--:|
-|![OFF](Simulation/activity4-off.PNG)|![ON](Simulation/activity4-on.PNG)|
+|OFF|
+|:--:|
+|![OFF](Simulation/activity4-off.PNG)|
+|On|
+|:--:|
+|![ON](Simulation/activity4-on.PNG)|
