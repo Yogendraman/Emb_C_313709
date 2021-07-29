@@ -34,5 +34,4 @@ over protocol
 |:--:|
 |![OFF](Simulation/activity4-off.PNG)|
 |On|
-|:--:|
 |![ON](Simulation/activity4-on.PNG)|
